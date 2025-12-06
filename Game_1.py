@@ -97,23 +97,6 @@ else:
     if(play_again != "yes" or play_again != "no"):
       print("Invalid input....Will be considered as \"no\"")
 
-
-print()
-time.sleep(2)
-print("Thank you for playing!")
-print("As the developer, I truly appreciate you taking the time to experience this game. Every line of code, every")
-print()
-time.sleep(6)
-print("design choice, and every challenge was crafted with care and passion. Your support means the world, and I")
-print()
-time.sleep(6)
-print("hope the game brought you fun, excitement, or even a moment to escape. If you enjoyed it, please consider")
-time.sleep(6)
-print()
-print("sharing your thoughts or feedback—it helps me grow and create even better experiences in the future. Until")
-time.sleep(6)
-print()
-print("next time, happy gaming!")
 print()
 print("Please enter any feedback if you want ..reply with no if you don't want to ")
 feed = input("")

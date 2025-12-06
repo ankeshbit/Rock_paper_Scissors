@@ -32,21 +32,15 @@ This project includes scoring, game rounds, user age validation, delays for dram
 
 Type in terminal:
 
-\`\`\`bash
 python --version
-\`\`\`
 
 Save the script as:
 
-\`\`\`bash
 rps_game.py
-\`\`\`
 
 Run the game:
 
-\`\`\`bash
 python rps_game.py
-\`\`\`
 
 ---
 
@@ -63,7 +57,6 @@ Highest score wins!
 
 ## 📸 Sample Output
 
-\`\`\`bash
 Game will start in
 5
 4
@@ -77,7 +70,6 @@ Round 1 Enter your choice:
 rock
 You chose rock and computer chose scissor
 You won 🏆
-\`\`\`
 
 ---
 
